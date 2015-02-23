@@ -1,0 +1,10 @@
+{
+  "dev": {
+    "driver": "pg",
+    "user": "drew",
+    "password": "",
+    "host": "localhost",
+    "database": "pwei",
+    "schema": "data"
+  }
+}

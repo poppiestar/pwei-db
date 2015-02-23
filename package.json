@@ -1,0 +1,19 @@
+{
+  "name": "pwei-db",
+  "version": "0.0.1",
+  "description": "The database portion of the new PWEI Discography",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "pwei",
+    "discography",
+    "database"
+  ],
+  "author": "Drew Miller",
+  "license": "MIT",
+  "dependencies": {
+    "pg": "^4.3.0"
+  }
+}
